@@ -1,4 +1,4 @@
-# Miniamx AI
+# Minimax AI
 
 Welcome to my Minimax AI project.
 
